@@ -54,7 +54,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 ### Connect with me:
 
 
-👨‍💼 **[Linkedin](https://www.linkedin.com/in/keron-williams/)**
+👨🏾‍💼 **[Linkedin](https://www.linkedin.com/in/keron-williams/)**
 
 🐦 **[Twitter](https://twitter.com/kam_senpaii)**
 
