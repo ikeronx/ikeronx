@@ -1,5 +1,7 @@
 
 ## Hi there, I'm Kamali 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/kam_senpaii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkam_senpaii&screen_name=kamsenpaii)
+
 
 ## Frontend Developer 👨‍💻 
 Front **End Web Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the total product.
