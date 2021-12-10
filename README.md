@@ -4,7 +4,7 @@
 
 
 ## Frontend Developer 👨🏾‍💻 - Side Caribbean Maker 🥝
-Front **End Web Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the total product.
+I'm **Front End Web Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the total product.
 While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
 
 I also like **sharing content** related to the stuff that I have learned over the years in **Web Development** so it can help other people of the **Dev Community**.
