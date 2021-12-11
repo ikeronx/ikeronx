@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Kamali 👋🏾
-[![Twitter Follow](https://img.shields.io/twitter/follow/kam_senpaii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkam_senpaii&screen_name=kamsenpaii)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kamcoderr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkamcoderr&screen_name=kamcoderr)
 
 ## Frontend Developer 👨🏾‍💻 - Caribbean Foodie Connoisseur 🥑
 I'm **Front End Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the total product.
@@ -53,7 +53,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 
 👨🏾‍💼 **[Linkedin](https://www.linkedin.com/in/keron-williams/)**
 
-🐦 **[Twitter](https://twitter.com/kam_senpaii)**
+🐦 **[Twitter](https://twitter.com/kamcoderr)**
 
 <!-- 🌎 **[Website]()** -->
  
