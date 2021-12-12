@@ -6,7 +6,7 @@
 I'm **Front End Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the total product.
 While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
 
-I am currently following The Odin Project's Full Stack Javascript Curriculum to increase my knowledege in **Web Development** and **Programming**. Follow me on **[Linkedin](https://www.linkedin.com/in/keron-williams/)** for content related to **Web Development** and **Programming**
+I am currently following The Odin Project's Full Stack Javascript Curriculum to increase my knowledege in **Web Development** and **Programming**. Follow me on **[Twitter](https://twitter.com/kamcoderr)** for content related to **Web Development** and **Programming**
 
 ---
 
