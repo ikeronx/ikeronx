@@ -3,10 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kamcoderr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkamcoderr&screen_name=kamcoderr)
 
 ## Frontend Developer 👨🏾‍💻 
-I'm a self taught **Front End Developer** building the **Front End** of **Web Applications** and **Websites** that leads to the success of the overall product.
-While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
-
-I am currently following The Odin Project's Full Stack Javascript Curriculum to increase my knowledege in **Web Development** and **Programming**. Follow me on **[Twitter](https://twitter.com/kamcoderr)** for content related to **Web Development** and **Programming**
+I'm a Self-Taught **Front End Developer** who builds websites and applications that **solve problems** and leads to the **success** of the overall **product**. 
+I'm always striving to **learn** and develop new skills so that I can be a better developer.
 
 ---
 
