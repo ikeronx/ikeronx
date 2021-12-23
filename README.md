@@ -1,6 +1,5 @@
 
-## Hi there, I'm Kamali 👋🏾
-[![Twitter Follow](https://img.shields.io/twitter/follow/kamcoderr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkamcoderr&screen_name=kamcoderr)
+## Hi, I'm Kamali 👋🏾
 
 ## Self-Taught Frontend Developer 
 I'm a Self-Taught **Front End Developer** who builds websites and applications that **solve problems** and leads to the **success** of the overall **product**. 
