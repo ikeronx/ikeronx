@@ -25,7 +25,7 @@ I'm always striving to **learn** and develop new skills so that I can be a bette
 
 ---
 
-<!-- Feel free to visit my website **[]()** to explore some of my recent **projects** and find more about me. -->
+Feel free to visit my website **[]()** to explore some of my recent **projects** and find more about me.
 
 
 ---
