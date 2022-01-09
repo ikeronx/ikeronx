@@ -1,53 +1,25 @@
+# Kamali Williams
 
-## Hi, I'm Kamali 👋🏾
+Self-Taught Front End Developer
 
-## Self-Taught Frontend Developer 
-I'm a Self-Taught **Front End Developer** who builds websites and applications that **solve problems** and leads to the **success** of the overall **product**. 
-I'm always striving to **learn** and develop new skills so that I can be a better developer.
+## Table of contents
 
----
+- [Overview](#overview)
+  - [Skills](#skills)
+  - [Links](#links)
 
-## **Languages and Tools I Know**:
+## Overview
 
+I'm a Self-Taught Frontend Developer who builds quality responsive websites and rich interactive web applications that solve problems and lead to the success of the overall product.
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  -->
+I'm always striving to learn and develop new skills to be a better developer by indulging myself in project building, thus sharpening my problem-solving skills to apply in real-life situations for quick and optimized solutions.
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Skills
 
-<br />
-<br />
+HTML5, CSS3, SASS, Javascript ES6+, Git, Netlify, Markdown.
 
----
+### Links
 
-Feel free to visit my website **[]()** to explore some of my recent **projects** and find more about me.
-
-<!-- 
----
-
-## **Stats** ⚡
- <img
-    src="https://github-readme-stats.vercel.app/api?username=ikeronx&show_icons=true&theme=react&&hide_border=true"
-  />
-  <br />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ikeronx&&theme=react&&hide_border=true"
-  />
-
----
- -->
-### Connect with me:
-
-
-👨🏾‍💼 **[Linkedin](https://www.linkedin.com/in/keron-williams/)**
-<!-- 
-🐦 **[Twitter](https://twitter.com/kamcoderr)** -->
-
-<!-- 🌎 **[Website]()** -->
- 
+🔗 [Portfolio](https://kamaliwilliams.netlify.app/)<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/keron-williams/)<br>
+🔗 [Codepen](https://codepen.io/ikeronx)
