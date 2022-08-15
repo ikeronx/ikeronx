@@ -16,7 +16,7 @@ I'm always striving to learn and develop new skills to be a better developer by 
 
 ### Skills
 
-HTML5, CSS3, SASS, Javascript ES6+, Git, Netlify, Markdown.
+HTML5, CSS3, SASS, Javascript ES6+, React, Git, Figma, Netlify, Markdown.
 
 ### Links
 
