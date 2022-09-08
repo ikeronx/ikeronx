@@ -20,6 +20,6 @@ HTML5, CSS3, SASS, Javascript ES6+, React, Git, Figma, Netlify, Markdown.
 
 ### Links
 
-🔗 [Portfolio](https://kamaliwilliams.netlify.app/)<br>
+🔗 [Portfolio](https://ikeronx.github.io/portfolio-v2/)<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/keron-williams/)<br>
 🔗 [Codepen](https://codepen.io/ikeronx)
