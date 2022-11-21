@@ -1,6 +1,6 @@
 # Keron Williams
 
-Self-Taught Front End Developer
+Front End Developer
 
 ## Table of contents
 
