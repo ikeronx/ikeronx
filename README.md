@@ -10,7 +10,7 @@ Self-Taught Front End Developer
 
 ## Overview
 
-I'm a Self-Taught Frontend Developer who builds quality responsive websites and rich interactive web applications that solve problems.
+I'm a Frontend Developer who builds quality responsive websites and rich interactive web applications that solve problems.
 
 I'm always striving to learn and develop new skills to be a better developer by indulging myself in project building, thus sharpening my problem-solving skills to apply in real-life situations for quick and optimized solutions.
 
