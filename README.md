@@ -12,8 +12,6 @@ Front End Developer
 
 I'm a Frontend Developer who builds quality responsive websites and rich interactive web applications that solve problems.
 
-I'm always striving to learn and develop new skills to be a better developer by indulging myself in project building, thus sharpening my problem-solving skills to apply in real-life situations for quick and optimized solutions.
-
 ### Skills
 
 HTML5, CSS3, SASS, Javascript ES6+, React, Git, Figma, Netlify, Markdown.
