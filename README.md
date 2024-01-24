@@ -14,7 +14,7 @@ I'm a Frontend Developer who builds quality responsive websites and rich interac
 
 ### Skills
 
-HTML5, Tailwind CSS, Javascript, React, Shopify, Git, Figma
+HTML5, CSS3, Javascript, React, Shopify Hydrogen, GraphQl, Tailwind, Git
 
 ### Links
 
